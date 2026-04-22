@@ -1,0 +1,43 @@
+
+career,stream,skills,description,degree,industry
+Data Scientist,Science,Python|Machine Learning|SQL|Statistics,Analyze data and build models,B.Tech/MCA,IT
+AI Engineer,Science,Python|Deep Learning|NLP|TensorFlow,Develop AI systems,B.Tech/MCA,IT
+Software Engineer,Science,Java|DSA|System Design|Git,Develop software,B.Tech/BCA/MCA,IT
+Web Developer,Science,HTML|CSS|JavaScript|React,Build websites,BCA/MCA,IT
+Cyber Security Analyst,Science,Networking|Security|Ethical Hacking,Protect systems,B.Tech,IT
+Cloud Engineer,Science,AWS|Azure|DevOps|Linux,Manage cloud systems,B.Tech,IT
+Data Analyst,Science,Excel|SQL|Python|Power BI,Analyze business data,BCA/MCA,IT
+Mobile App Developer,Science,Flutter|Kotlin|Java|UI Design,Build mobile apps,B.Tech,IT
+Game Developer,Science,Unity|C#|Game Design,Develop games,B.Tech,IT
+DevOps Engineer,Science,Docker|Kubernetes|CI/CD|Linux,Manage deployment,B.Tech,IT
+
+Doctor,Science,Biology|Diagnosis|Patient Care,Provide healthcare,MBBS,Healthcare
+Pharmacist,Science,Chemistry|Medicine|Drug Knowledge,Work in pharma,B.Pharm,Healthcare
+Nurse,Science,Patient Care|Medical Support,Assist doctors,B.Sc Nursing,Healthcare
+Biotechnologist,Science,Biology|Research|Lab Work,Research biotech,B.Sc/M.Sc,Healthcare
+
+Chartered Accountant,Commerce,Accounting|Taxation|Finance|Auditing,Manage finance,CA,Finance
+Investment Banker,Commerce,Finance|Valuation|Excel|Economics,Work in banking,MBA,Finance
+Financial Analyst,Commerce,Excel|Finance|Analysis|Reporting,Analyze finances,B.Com/MBA,Finance
+Accountant,Commerce,Accounting|GST|Tally|Finance,Maintain accounts,B.Com,Finance
+Business Analyst,Commerce,Excel|SQL|Analysis|Communication,Business insights,MBA,Corporate
+HR Manager,Commerce,Communication|Recruitment|Management,Manage HR,MBA HR,Corporate
+Marketing Manager,Commerce,Marketing|Strategy|SEO|Branding,Handle marketing,MBA Marketing,Corporate
+
+Lawyer,Arts,Legal Knowledge|Research|Drafting,Handle legal cases,LLB,Legal
+Journalist,Arts,Writing|Communication|Reporting,News reporting,BA Journalism,Media
+Content Writer,Arts,Writing|SEO|Research,Create content,Any,Media
+Graphic Designer,Arts,Photoshop|Illustrator|Creativity,Design visuals,Design Degree,Creative
+UI/UX Designer,Arts,Figma|Prototyping|User Research,Design UI,Design Degree,Creative
+Animator,Arts,Animation|Creativity|3D Tools,Create animations,Design Degree,Creative
+Fashion Designer,Arts,Design|Creativity|Trends,Design clothes,Design Degree,Creative
+
+Teacher,All,Communication|Teaching|Subject Knowledge,Educate students,B.Ed,Education
+Professor,All,Research|Teaching|Subject Expertise,Teach in college,PhD,Education
+Entrepreneur,All,Business|Leadership|Finance,Start business,None,Business
+Government Officer,All,Reasoning|GK|Aptitude,Work in govt,Gov Exams,Government
+Police Officer,All,Physical Fitness|Law|Discipline,Maintain law,Gov Exams,Government
+Army Officer,All,Leadership|Discipline|Physical,Serve nation,NDA/CDS,Defense
+Civil Engineer,Science,AutoCAD|Construction|Planning,Build infrastructure,B.Tech,Core
+Mechanical Engineer,Science,Mechanics|Design|Machines,Work on machines,B.Tech,Core
+Electrical Engineer,Science,Circuits|Power Systems,Electrical work,B.Tech,Core

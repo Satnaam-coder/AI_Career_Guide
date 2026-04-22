@@ -1,0 +1,20 @@
+
+career,level,salary_usd
+Data Scientist,Entry,70000
+Data Scientist,Senior,150000
+Software Engineer,Entry,60000
+Software Engineer,Senior,130000
+Web Developer,Entry,50000
+Web Developer,Senior,100000
+Cyber Security Analyst,Entry,70000
+Cyber Security Analyst,Senior,140000
+Doctor,Entry,80000
+Doctor,Senior,200000
+Chartered Accountant,Entry,40000
+Chartered Accountant,Senior,90000
+Investment Banker,Entry,80000
+Investment Banker,Senior,150000
+Graphic Designer,Entry,35000
+Graphic Designer,Senior,70000
+Teacher,Entry,30000
+Teacher,Senior,60000
